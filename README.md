@@ -2,7 +2,7 @@
 
 # Seja bem vindo ao meu GitHub! <div id="badges">
 <div id="badges">
-  <a href = "[https://github.com/camiloiglesias](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)">
+  <a href = "https://www.linkedin.com/in/camilo-jose-viera-iglesias/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
