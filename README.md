@@ -10,15 +10,11 @@
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento" target="_blank">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas.
-- Fã da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
-- Apredendo as stack
+- Aluno da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> nas stacks ReactJS, React Native e  Node.js.
+
   
-  ReactJS
-  
-  React Native
-  
-  Node.js
-  
+ 
+---
 <div>  
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/7b71251e-4aa5-4ff1-afa1-bb6597ce5aaf" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/bbb161ea-dcb1-440d-a1fb-e2c73c5dd744" title="Java" alt="Java" width="40" height="40"/>&nbsp;
