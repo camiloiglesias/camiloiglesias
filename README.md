@@ -10,6 +10,7 @@
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- Pós-Gradução Lato Sensu Administração de Banco de Dados.
 - Aluno da <a href="https://www.rocketseat.com.br/">Rocketseat</a> nas stacks ReactJS, React Native e  Node.js.
 
   
