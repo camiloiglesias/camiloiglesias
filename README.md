@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento" target="_blank"  rel="noreferrer">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
+Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento" target="_blank"  rel="noopener noreferrer">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - Aluno da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> nas stacks ReactJS, React Native e  Node.js.
