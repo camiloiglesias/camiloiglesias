@@ -1,5 +1,10 @@
-<img src = "banner.gif" width = "325px" align = "right">
 # Seja bem vindo ao meu GitHub! 
+
+<img src = "banner.gif" width = "325px" align = "right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=camiloiglesias)
+
+Sobre mim
 
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
