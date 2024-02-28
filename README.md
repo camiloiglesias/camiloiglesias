@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=camiloiglesias)
 
-Sobre mim
+ 👨🏻‍💻 **Sobre mim** 
 
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
@@ -32,7 +32,7 @@ Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&show_icons=true&theme=bear&count_private=true"/>
 
-🤝🏻 Conecte-se comigo
+🤝🏻 **Conecte-se comigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
 
