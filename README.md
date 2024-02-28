@@ -1,5 +1,4 @@
 <img src = "banner.gif" width = "325px" align = "right">
-
 # Seja bem vindo ao meu GitHub! 
 
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
