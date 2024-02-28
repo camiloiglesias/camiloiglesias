@@ -1,11 +1,7 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
 # Seja bem vindo ao meu GitHub! <div id="badges">
-<div id="badges">
-  <a href = "https://www.linkedin.com/in/camilo-jose-viera-iglesias/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+Sobre mim
 
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
