@@ -1,8 +1,11 @@
-# Seja bem vindo ao meu GitHub! 
+## Olá👋, pessoal da tecnologia! Como estão? Eu sou o Camilo
 
 <img src = "banner.gif" width = "325px" align = "right">
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=camiloiglesias)
+
 
 🌐 **Sobre Mim**
 
@@ -12,7 +15,7 @@ Além disso, possuo uma formação como Tecnólogo em Análise e Desenvolvimento
 
 Buscando sempre atualizações e aprimoramento, estou atualmente matriculado na Rocketseat, onde participo ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile.
 
-Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em projetos desafiadores e continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas.
+Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos Javascript, Python, ArcGisPro, Qgis, Mysql, PostgreSql, Earth-Engine e AutoCad Civil 3D para topográfia em projetos desafiadores e continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas.
 
   
  
@@ -39,4 +42,6 @@ Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-5555981180536-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+5555981180536)
+
+
 
