@@ -6,13 +6,13 @@
 
 🌐 **Sobre Mim**
 
-Olá! Sou um entusiasta apaixonado por geotecnologias, atualmente cursando Geoprocessamento na UFSM. Minha dedicação se concentra no emprego eficiente de ferramentas como Google Earth Engine e Python para realizar análises geoespaciais de alta qualidade.
+Meu interesse e dedicação estão voltados para as geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com um foco específico no uso avançado do Google Earth Engine e Python para realizar análises geoespaciais.
 
-Além da minha formação acadêmica em Geoprocessamento, sou Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em tecnologia da informação. Complementando minha trajetória, obtive uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, aprimorando minha expertise em gerenciamento de dados.
+Além disso, possuo uma formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em programação e desenvolvimento de sistemas. Complementando meu conhecimento, realizei uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, aprimorando minhas habilidades no gerenciamento eficiente de dados.
 
-Buscando constantemente atualização e aprimoramento, sou aluno dedicado nas formações oferecidas pela Rocketseat, nas quais estudo ReactJS, React Native e Node.js. Essas experiências têm enriquecido meu conhecimento e habilidades em desenvolvimento web e mobile.
+Buscando sempre atualizações e aprimoramento, estou atualmente matriculado na Rocketseat, onde participo ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile.
 
-Estou sempre aberto a novos desafios e oportunidades no vasto universo das tecnologias geoespaciais e do desenvolvimento de sistemas.
+Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em projetos desafiadores e continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas.
 
   
  
