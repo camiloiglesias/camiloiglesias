@@ -11,7 +11,7 @@
 
 Meu interesse e dedicação estão direcionados às geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com ênfase no avançado uso do Google Earth Engine e Python para conduzir análises geoespaciais.
 
-Possuo formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em programação e desenvolvimento de sistemas. Para aprimorar ainda mais meu conhecimento, concluí uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, consolidando minhas habilidades no gerenciamento eficiente de dados.
+Possuo formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em programação e desenvolvimento de sistemas. Para aprimorar ainda mais meu conhecimento, concluí uma Pós-Graduação em Administração de Banco de Dados, consolidando minhas habilidades no gerenciamento eficiente de dados.
 
 Em busca constante de atualizações e aprimoramento, estou matriculado na Rocketseat, participando ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile. Também estou matriculado na United Nations University no Institute for Water, Environment and Health na formação Spatial Data Management with Google Earth Engine.
 
