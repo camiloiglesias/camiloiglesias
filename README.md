@@ -15,7 +15,7 @@ Possuo formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, pro
 
 Em busca constante de atualizações e aprimoramento, estou matriculado na Rocketseat, participando ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile. Também estou matriculado na United Nations University no Institute for Water, Environment and Health na formação Spatial Data Management with Google Earth Engine.
 
-Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em Javascript, Python, ArcGIS Pro, QGIS, MySQL, PostgreSQL, Google Earth Engine, e AutoCAD Civil 3D para topografia em projetos desafiadores. Meu objetivo é continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas, contribuindo para soluções inovadoras e impactantes.
+Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em Docker, Javascript, Python, ArcGIS Pro, QGIS, MySQL, PostgreSQL, Google Earth Engine, e AutoCAD Civil 3D para topografia em projetos desafiadores. Meu objetivo é continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas, contribuindo para soluções inovadoras e impactantes.
   
  
 ---
