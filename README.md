@@ -34,6 +34,7 @@ Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https
 
 🤝🏻 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5555981180536-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+5555981180536)
 
