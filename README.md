@@ -9,14 +9,13 @@
 
 🌐 **Sobre Mim**
 
-Meu interesse e dedicação estão voltados para as geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com um foco específico no uso avançado do Google Earth Engine e Python para realizar análises geoespaciais.
+Meu interesse e dedicação estão direcionados às geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com ênfase no avançado uso do Google Earth Engine e Python para conduzir análises geoespaciais.
 
-Além disso, possuo uma formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em programação e desenvolvimento de sistemas. Complementando meu conhecimento, realizei uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, aprimorando minhas habilidades no gerenciamento eficiente de dados.
+Possuo formação como Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em programação e desenvolvimento de sistemas. Para aprimorar ainda mais meu conhecimento, concluí uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, consolidando minhas habilidades no gerenciamento eficiente de dados.
 
-Buscando sempre atualizações e aprimoramento, estou atualmente matriculado na Rocketseat, onde participo ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile.
+Em busca constante de atualizações e aprimoramento, estou matriculado na Rocketseat, participando ativamente das formações em ReactJS, React Native e Node.js. Essa diversificação de conhecimentos visa ampliar minhas competências no desenvolvimento web e mobile. Também estou matriculado na United Nations University no Institute for Water, Environment and Health na formação Spatial Data Management with Google Earth Engine.
 
-Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos Javascript, Python, ArcGisPro, Qgis, Mysql, PostgreSql, Earth-Engine e AutoCad Civil 3D para topográfia em projetos desafiadores e continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas.
-
+Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em Javascript, Python, ArcGIS Pro, QGIS, MySQL, PostgreSQL, Google Earth Engine, e AutoCAD Civil 3D para topografia em projetos desafiadores. Meu objetivo é continuar explorando as fronteiras da tecnologia geoespacial e desenvolvimento de sistemas, contribuindo para soluções inovadoras e impactantes.
   
  
 ---
