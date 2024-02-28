@@ -2,9 +2,8 @@
 
 # Seja bem vindo ao meu GitHub! <div id="badges">
 
-Sobre mim
-
 ![Profile Views](https://badgen.net/badge/Profile_Views/10000/blue?icon=https://github.com/camiloiglesias)
+Sobre mim
 
 Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
 
