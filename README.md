@@ -2,7 +2,7 @@
 
 # Seja bem vindo ao meu GitHub! <div id="badges">
 
-![Profile Views](https://badgen.net/badge/Profile_Views/10000/blue?icon=https://github.com/camiloiglesias)
+![Profile Views](https://badgen.net/badge/Profile Views/10000/blue?icon=https://github.com/camiloiglesias)
 
 Sobre mim
 
