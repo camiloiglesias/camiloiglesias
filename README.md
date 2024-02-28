@@ -4,13 +4,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=camiloiglesias)
 
- 👨🏻‍💻 **Sobre mim** 
+🌐 **Sobre Mim**
 
-Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-geoprocessamento">Geoprocessamento</a>, focado em Google Earth Engine e Python para Análises Geoespaciais
+Olá! Sou um entusiasta apaixonado por geotecnologias, atualmente cursando Geoprocessamento na UFSM. Minha dedicação se concentra no emprego eficiente de ferramentas como Google Earth Engine e Python para realizar análises geoespaciais de alta qualidade.
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas.
-- Pós-Gradução Lato Sensu Administração de Banco de Dados.
-- Aluno da <a href="https://www.rocketseat.com.br/">Rocketseat</a> nas formações ReactJS, React Native e  Node.js.
+Além da minha formação acadêmica em Geoprocessamento, sou Tecnólogo em Análise e Desenvolvimento de Sistemas, proporcionando uma base sólida em tecnologia da informação. Complementando minha trajetória, obtive uma Pós-Graduação Lato Sensu em Administração de Banco de Dados, aprimorando minha expertise em gerenciamento de dados.
+
+Buscando constantemente atualização e aprimoramento, sou aluno dedicado nas formações oferecidas pela Rocketseat, nas quais estudo ReactJS, React Native e Node.js. Essas experiências têm enriquecido meu conhecimento e habilidades em desenvolvimento web e mobile.
+
+Estou sempre aberto a novos desafios e oportunidades no vasto universo das tecnologias geoespaciais e do desenvolvimento de sistemas.
 
   
  
