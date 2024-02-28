@@ -10,7 +10,7 @@ Sou uma pessaoa que gosta de geotecnologias, graduando da UFSM em <a href="https
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - Pós-Gradução Lato Sensu Administração de Banco de Dados.
-- Aluno da <a href="https://www.rocketseat.com.br/">Rocketseat</a> nas stacks ReactJS, React Native e  Node.js.
+- Aluno da <a href="https://www.rocketseat.com.br/">Rocketseat</a> nas formações ReactJS, React Native e  Node.js.
 
   
  
