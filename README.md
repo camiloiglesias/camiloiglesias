@@ -1,4 +1,5 @@
 <img src = "banner.gif" width = "325px" align = "right">
+
 # Seja bem vindo ao meu GitHub! <div id="badges">
 
 ![Profile Views](https://badgen.net/badge/Profile_Views/10000/blue?icon=https://github.com/camiloiglesias)
