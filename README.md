@@ -33,8 +33,12 @@ Estou entusiasmado em aplicar minha experiência e conhecimento adquiridos em Do
 
 ---
 
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&show_icons=true&theme=bear&count_private=true"/>
+
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&count_private=true&theme=radical)](https://github.com/argentinaluiz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🤝🏻 **Conecte-se comigo**
 
