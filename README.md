@@ -12,6 +12,9 @@
 Meu interesse e dedicação estão direcionados às geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com ênfase no uso avançado  do Google Earth Engine e Python para conduzir análises geoespaciais.
 
 
+
+
+
 ---
 <div>  
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/7b71251e-4aa5-4ff1-afa1-bb6597ce5aaf" title="Python" alt="Python" width="40" height="40"/>&nbsp;
