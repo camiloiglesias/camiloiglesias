@@ -10,7 +10,7 @@
 🌐 **Sobre Mim**
 
 
-Meu interesse e dedicação estão direcionados às geotecnologias. Atualmente, sou graduando em Geoprocessamento na UFSM, com ênfase no uso avançado  do Google Earth Engine e Python para conduzir análises geoespaciais.
+Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase no uso avançado Do Google Earth Engine e Python para conduzir análises geoespaciais.
 
 
 
