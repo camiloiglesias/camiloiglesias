@@ -45,7 +45,7 @@ Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-5555981180536-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+555599259336)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-555599259336-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+555599259336)
 
 
 
