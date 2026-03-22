@@ -10,7 +10,7 @@
 🌐 **Sobre Mim**
 
 
-Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase no uso avançado Do Google Earth Engine e Python para conduzir análises geoespaciais.
+Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase no uso avançado do Google Earth Engine e Python para conduzir análises geoespaciais. Atualmente, aplico essas ferramentas no meu Mestrado em Ciência do Solo na UFSM, atuando na linha de pesquisa de Conservação do Solo e da Água para modelar a erosão hídrica, investigar processos hidrossedimentológicos e a dinâmica de bacias hidrográficas.
 
 
 
