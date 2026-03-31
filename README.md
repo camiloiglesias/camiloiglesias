@@ -1,4 +1,3 @@
-## Olá👋, pessoal da tecnologia! Como estão? Eu sou o Camilo
 
 <img src = "banner.gif" width = "325px" align = "right">
 
