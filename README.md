@@ -8,26 +8,43 @@ Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div>    
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/7b71251e-4aa5-4ff1-afa1-bb6597ce5aaf" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/bbb161ea-dcb1-440d-a1fb-e2c73c5dd744" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/0ea1c262-9966-4399-885c-469533a60362" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/81af191d-07da-4283-943c-f1c6a15954ec" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/9902cdb1-ed52-4534-a11d-0ba16acb0cfb" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/19db373f-513e-44f0-95f8-44d1b4938e8e" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/5bfd1ce7-26cb-4bbc-a380-ef7ed3cb658d" title="ArcGisPro" alt="ArcGisPro" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/af3688c5-5b17-4964-bdf9-d54153a751f8" title="Qgis" alt="Qgis" width="40" height="40"/>&nbsp;
-<img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/61bc641a-c313-454f-b462-f245766683aa" title="Earth-Engine" alt="Earth-Engine" width="40" height="40"/>&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+
+  <!-- Linguagens & Dados -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+  <!-- Geotecnologias & SIG -->
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-E23B1E?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Pro" />
+
+  <!-- Web & Outros -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
 </div>
 
 ---
 
-[![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)](https://github.com/camiloiglesias)
+<p align="center">
+  <a href="https://github.com/camiloiglesias">
+    <img src="https://streak-stats.demolab.com?user=camiloiglesias&theme=radical&background=0D1117&border=30363D&fire=FF5722&sideNums=FFFFFF" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/camiloiglesias)
+---
 
 🤝🏻 **Conecte-se comigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-555599259336-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+555599259336)
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilo-jose-viera-iglesias/">
+    <img src="https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/+555599259336">
+    <img src="https://img.shields.io/badge/WhatsApp-555599259336-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
