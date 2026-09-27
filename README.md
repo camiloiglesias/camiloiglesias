@@ -1,25 +1,14 @@
-
-<img src = "banner.gif" width = "325px" align = "right">
-
-
+<img src="banner.gif" width="325px" align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=camiloiglesias)
 
-
 🌐 **Sobre Mim**
-
 
 Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase no uso avançado do Google Earth Engine e Python para conduzir análises geoespaciais. Atualmente, aplico essas ferramentas no meu Mestrado em Ciência do Solo na UFSM, atuando na linha de pesquisa de Conservação do Solo e da Água para modelar a erosão hídrica, investigar processos hidrossedimentológicos e a dinâmica de bacias hidrográficas.
 
+### 🛠️ Tecnologias & Ferramentas
 
-
-
-
-
-
-
-###  Tecnologias & Ferramentas
-<div>  
+<div>    
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/7b71251e-4aa5-4ff1-afa1-bb6597ce5aaf" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/bbb161ea-dcb1-440d-a1fb-e2c73c5dd744" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/camiloiglesias/camiloiglesias/assets/71660609/0ea1c262-9966-4399-885c-469533a60362" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
@@ -33,18 +22,12 @@ Meu interesse e dedicação estão direcionados às geotecnologias, com ênfase 
 
 ---
 
+[![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)](https://github.com/camiloiglesias)
 
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloiglesias&show_icons=true&count_private=true&theme=radical)](https://github.com/argentinaluiz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloiglesias&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/camiloiglesias)
 
 🤝🏻 **Conecte-se comigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN_PERFIL/)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAMILO_JOSE_VIERA_IGLESIAS-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-jose-viera-iglesias/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-555599259336-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+555599259336)
-
-
-
